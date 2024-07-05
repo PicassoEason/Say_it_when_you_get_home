@@ -34,7 +34,7 @@ void loop() {
   //   delay(50); // 消除按鈕抖動
   // }
 
-  if(buttonState == LOW){          //如果按鍵按了
+  if(buttonState == HIGH){          //如果按鍵按了
     myservo.write(180);       // 將舵機轉到0度
     Serial.println("舵機轉到180度");
     Serial.println("按鍵按了");
