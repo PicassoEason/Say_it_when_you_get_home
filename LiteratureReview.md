@@ -20,4 +20,19 @@
     - **連結**: [Human-Computer Synergies PDF](https://www.academia.edu/download/76446528/44_2.pdf)
     - **摘要**: 本文探討了人機互動中的協同作用，特別是如何在人工裝置中實現更自然和高效的互動。
     - **貢獻**: 可以提供有關如何設計更自然且有效的人機互動的知識，這對於您的燈與門互動裝置的設計有直接的應用價值。
+   ### 額外可能相關的研究方向
+
+1. **Tangible User Interfaces (TUI)**：
+    - **研究重點**：探索實體界面（例如門把手、燈）如何作為用戶與數字系統互動的接口。
+    - **文獻示例**：搜尋關鍵詞如"Tangible User Interfaces door light interaction"。
+2. **Ambient Displays**：
+    - **研究重點**：研究如何通過光線和物理運動來傳達信息，增強用戶體驗。
+    - **文獻示例**：搜尋關鍵詞如"Ambient Displays remote interaction light door"。
+3. **Affective Computing**：
+    - **研究重點**：探索如何設計設備以感知和回應用戶的情感狀態，提供情感支持。
+    - **文獻示例**：搜尋關鍵詞如"Affective Computing emotional support door light".
+4. **Remote Presence Systems**：
+    - **研究重點**：設計遠程存在系統，使遠程用戶之間能夠感知到彼此的存在和互動。
+    - **文獻示例**：搜尋關鍵詞如"Remote Presence Systems interactive door light".
   
+      
