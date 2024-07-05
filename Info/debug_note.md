@@ -22,3 +22,9 @@ If the upload fails, wait a few seconds and try it a second time.
 
 ### Solution
 just press the boot button while uploading the code!
+
+
+
+## button pin
+
+pin && 3.3V
