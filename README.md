@@ -6,6 +6,7 @@ Say it when you get home - 2024 OpenHCI 當遠距成為日常,該如何喚起我
 
 ## 原型
 ![Group7_ 期中簡報 (1)](https://github.com/PicassoEason/Say_it_when_you_get_home/assets/87004138/b3c071fb-2ad7-4078-b876-9a09d5c438f6)
+![image](https://github.com/PicassoEason/Say_it_when_you_get_home/assets/87004138/849db2d6-5aa5-4128-ae57-09460600b794)
 
 
 ## 架構
