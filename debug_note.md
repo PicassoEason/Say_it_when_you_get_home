@@ -13,3 +13,12 @@ Reopen the Arduino window and choose the correct port under Tools > Port. If you
 Open the serial monitor and make sure the baud rate matches the one found in your code.
 Upload the sketch.
 If the upload fails, wait a few seconds and try it a second time.
+
+
+## A fatal error occurred: Failed to connect to ESP32: Wrong boot mode detected (0x13)!
+
+![image](https://github.com/PicassoEason/Say_it_when_you_get_home/assets/87004138/41e2976f-37b4-461a-9c71-35b5edc6a84d)
+
+
+### Solution
+just press the boot button while uploading the code!
