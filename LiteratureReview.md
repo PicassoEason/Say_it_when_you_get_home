@@ -1,3 +1,5 @@
+# 參考文獻
+
 1. **"Touché: enhancing touch interaction on humans, screens, liquids, and everyday objects"**
     - **連結**: [Touché PDF](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=785f2f3fa98347482737a8a38064cd98550cb3e3)
     - **摘要**: 這篇論文探討了觸摸互動技術的增強，包括如何通過簡單的觸摸動作來控制物體。研究了不同情境下的觸摸互動，這對於設計以輕敲動作控制燈和門的裝置具有直接的參考價值。
