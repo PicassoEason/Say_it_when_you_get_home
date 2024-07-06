@@ -12,7 +12,7 @@ unsigned long lastDebounceTime = 0;
 unsigned long debounceDelay = 50;
 
 void setup() {
-  myservo.attach(25);
+  myservo.attach(24);
   pinMode(buttonPin, INPUT);  // 不使用內部上拉，假設使用外部上拉電阻
   pinMode(vibrationPin, INPUT);
   Serial.begin(115200);
