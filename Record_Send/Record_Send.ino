@@ -5,15 +5,15 @@
 
 // WiFi設置
 const char* ssid = "你的WiFi名稱"; // 設定WiFi名稱
-const char* password = "你的WiFi密碼"; // 設定WiFi密碼
+const char* password   = "你的WiFi密碼"; // 設定WiFi密碼
 
 // WebSocket設置
 WebSocketsServer webSocket = WebSocketsServer(81); // 創建WebSocket伺服器對象，端口設置為81
 
 // INMP441設置
-#define I2S_WS 15 // 定義I2S左右聲道選擇引腳
-#define I2S_SD 13 // 定義I2S數據輸入引腳
-#define I2S_SCK 2 // 定義I2S時鐘引腳
+#define I2S_WS 25 // 定義I2S左右聲道選擇引腳
+#define I2S_SD 33 // 定義I2S數據輸入引腳
+#define I2S_SCK 32 // 定義I2S時鐘引腳
 #define I2S_PORT I2S_NUM_0 // 定義I2S接口
 #define I2S_SAMPLE_RATE (16000) // 定義I2S取樣率
 #define I2S_SAMPLE_BITS (16) // 定義I2S取樣位數
