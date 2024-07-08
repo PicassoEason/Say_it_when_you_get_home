@@ -30,7 +30,7 @@ void setup() {
     audio.setPinout(I2S_BCLK, I2S_LRC, I2S_DOUT);
     audio.setVolume(10000); // 0...21
 
-    audio.connecttohost("https://firebasestorage.googleapis.com/v0/b/home9-58f42.appspot.com/o/ddd16000hz16bp.wav?alt=media&token=c70a5283-9bca-4550-a141-80eb57e39c28"); //  128k mp3
+    audio.connecttohost("xxxxxxxxxxxxxxxxx"); //  128k mp3
 }
 
 void loop()
