@@ -16,14 +16,14 @@
 #include <addons/RTDBHelper.h>
 #include <ESP32Servo.h>
 #include <Ultrasonic.h>
-#define WIFI_SSID "csie523"
-#define WIFI_PASSWORD "MakeReality"
-#define API_KEY "AIzaSyDOeXrq21A4-L4XrqD3owwkSY7O0AktqsE"
-#define DATABASE_URL "https://home9-58f42-default-rtdb.firebaseio.com/"  //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define WIFI_SSID "xxx"
+#define WIFI_PASSWORD "xxx"
+#define API_KEY "xxxx"
+#define DATABASE_URL "xxxxxx"  //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "austin60616@gmail.com"
-#define USER_PASSWORD "austin1204"
+#define USER_EMAIL "xx@gmail.com"
+#define USER_PASSWORD "xxxx"
 
 // Define Firebase Data object
 FirebaseData fbdo;
